@@ -1,0 +1,3 @@
+CASH_FLOW_DB_ID = "687c587c-4d7c-4bb9-8316-636466646e82";
+
+module.exports = { CASH_FLOW_DB_ID };

@@ -1,0 +1,16 @@
+{
+  "name": "notion-api",
+  "version": "1.0.0",
+  "description": "Testing notion integration",
+  "main": "databaseSearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node databaseSearch.js"
+  },
+  "author": "Rama Krishna",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^2.2.15",
+    "dotenv": "^16.4.5"
+  }
+}
